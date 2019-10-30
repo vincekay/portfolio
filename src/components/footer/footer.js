@@ -21,7 +21,7 @@ export default class Footer extends Component {
           </ul>
           <ul className="copyright">
             <li>© Copyright 2019 Vincent Kay</li>
-            <li>Made with <a title="LOVE" href="https://github.com/vincekay10">💛</a></li>
+            <li>Made with <a title="LOVE" href="https://github.com/vincekay">💛</a></li>
           </ul>
         </div>
         <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
