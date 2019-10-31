@@ -42,7 +42,7 @@ header {
 	-webkit-background-size: cover !important;
    text-align: center;
    overflow: hidden;
-   
+   background-color: rgba(255, 0, 0, 0.5);
 }
 
 
